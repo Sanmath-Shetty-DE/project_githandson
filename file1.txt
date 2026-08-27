@@ -1,1 +1,2 @@
- Hello world
+First line in file1
+Second line in file2
