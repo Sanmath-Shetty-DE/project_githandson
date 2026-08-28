@@ -1,4 +1,0 @@
-First line in file3
-Second line in file3
-Third line added in file3
-Fourth line added in file3
