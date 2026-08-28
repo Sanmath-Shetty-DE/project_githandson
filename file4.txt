@@ -1,0 +1,2 @@
+First line in file4
+Second line in file4

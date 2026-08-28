@@ -1,4 +1,0 @@
-First line in file1
-Second line in file2
-Third line in file3
-Fourth line in file1
